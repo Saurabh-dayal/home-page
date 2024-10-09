@@ -22,14 +22,14 @@
         "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1": {
           "type": "text",
           "settings": {
-            "text": "A theme and populated test store by Shopify to help you test commerce primitives.",
+            "text": "All of Your's Favorite and more",
             "text_style": "body"
           }
         },
         "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop products",
+            "button_label_1": "Order Now",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -68,9 +68,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Featured products</strong>",
+        "title": "<strong>Best Seller</strong>",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>From roadtrip essentials to chocolatey classics, our best selling treats will instantly sweeten your day!</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "mithai",
@@ -98,21 +98,21 @@
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Stay hydrated",
+            "heading": "First Time Here?",
             "heading_size": "h1"
           }
         },
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our wax subscription so you can fly high, but never dry.</p>",
+            "text": "<p>Indulge In A Bit Of Everything</p>",
             "text_style": "body"
           }
         },
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Get waxy now",
+            "button_label": "Try the Box Now",
             "button_link": "shopify://products/selling-plans-ski-wax"
           }
         }
