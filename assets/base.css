@@ -261,7 +261,7 @@ html.no-js .no-js-hidden {
 
 @media screen and (min-width: 750px) {
   .page-width {
-    padding: 0 5rem;
+    padding: 0;
   }
 
   .header.page-width {
@@ -3353,7 +3353,7 @@ body {
 } */
 
 .footer {
-  background-color: #2d4d5a; 
+  background-color: darkslategrey; 
   color: #fff; 
   padding: 20px;
   position: relative;
