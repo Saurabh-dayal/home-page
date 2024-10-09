@@ -179,7 +179,7 @@
         "button_QAEcrX"
       ],
       "custom_css": [
-        "*{background-color: beige;}"
+        "* {background-color: beige;}"
       ],
       "settings": {
         "image": "shopify://shop_images/image_22.png",
@@ -229,7 +229,7 @@
         "featured_collection_EDxdJe"
       ],
       "settings": {
-        "title": "<strong>Collections</strong>",
+        "title": "<strong>Blog From The Sweet Side</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
