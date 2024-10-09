@@ -125,6 +125,9 @@
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-1",
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-2"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 750px) {.section-template--18236287647998__f1552b18-6017-4231-810d-74e61da22c37-padding {background-color: bisque;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/YZi_1.png",
         "height": "adapt",
