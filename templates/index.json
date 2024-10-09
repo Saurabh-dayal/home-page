@@ -148,21 +148,21 @@
         "heading_jyTdB8": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Anatomy of A Healthy Mithai Shop",
             "heading_size": "h1"
           }
         },
         "text_HTjY9Y": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>For Years, Everything made in our shop is a product of love.</p>",
             "text_style": "body"
           }
         },
         "button_QAEcrX": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -245,8 +245,8 @@
     "f1552b18-6017-4231-810d-74e61da22c37",
     "chocostore",
     "image_with_text_K6XG9X",
-    "38cdf60f-e431-43b5-aac3-7e6215447d67",
     "feature",
+    "38cdf60f-e431-43b5-aac3-7e6215447d67",
     "myfooter"
   ]
 }
