@@ -27,13 +27,17 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+        "* {max-width: 100%;}"
+      ],
       "settings": {
       }
     },
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__heading-link .h2 {font-size: 16px;}"
+        ".header__heading-link .h2 {font-size: 16px;}",
+        "*{background-color: darkslategray;}"
       ],
       "settings": {
         "logo_position": "middle-left",
