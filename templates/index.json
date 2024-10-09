@@ -178,6 +178,9 @@
         "text_HTjY9Y",
         "button_QAEcrX"
       ],
+      "custom_css": [
+        "*{background-color: beige;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/image_22.png",
         "height": "adapt",
