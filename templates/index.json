@@ -142,6 +142,51 @@
       "settings": {
       }
     },
+    "image_with_text_K6XG9X": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jyTdB8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_HTjY9Y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_QAEcrX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jyTdB8",
+        "text_HTjY9Y",
+        "button_QAEcrX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/image_22.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "38cdf60f-e431-43b5-aac3-7e6215447d67": {
       "type": "collection-list",
       "blocks": {
@@ -199,6 +244,7 @@
     "featured_collection",
     "f1552b18-6017-4231-810d-74e61da22c37",
     "chocostore",
+    "image_with_text_K6XG9X",
     "38cdf60f-e431-43b5-aac3-7e6215447d67",
     "feature",
     "myfooter"
