@@ -67,6 +67,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "@media screen and (min-width: 750px) {.section-template--18236287647998__featured_collection-padding {background-color: darkslategray;}"
+      ],
       "settings": {
         "title": "<strong>Best Seller</strong>",
         "heading_size": "h1",
