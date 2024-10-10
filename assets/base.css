@@ -3325,7 +3325,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  gap: 2rem;
 }
 
 .logo-item {
@@ -3362,7 +3362,6 @@ body {
 .footer h2 {
   font-size: 28px;
   margin-bottom: 10px;
-  border-radius: 10rem;
 }
 
 .footer-content {

@@ -7,15 +7,6 @@
 * made to this file may be overwritten.
 * ------------------------------------------------------------
 */
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -46,7 +37,12 @@
       "type": "header",
       "custom_css": [
         ".header__heading-link .h2 {font-size: 16px;}",
-        "*{background-color: darkslategray;}"
+        "* {background-color: darkslategray;}",
+        ".header__heading-link .h2 {color: white; border: 0.2rem solid #e3dfdf; padding: 4px; border-radius: 8px;}",
+        ".header__active-menu-item {color: white;}",
+        ".header__menu-item span {color: white;}",
+        ".header__icon .icon {color: white;}",
+        " {}"
       ],
       "settings": {
         "logo_position": "middle-left",
